@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Home from './Home.js'
+import Home from './Home'
 import About from './About.js'
 import Login from './Login.js'
 import Navbar from './Navbar.js'
