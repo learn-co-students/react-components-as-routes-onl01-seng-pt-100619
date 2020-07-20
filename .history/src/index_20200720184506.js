@@ -1,9 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Home from './Home.js'
-import About from './About.js'
-import Login from './Login.js'
-import Navbar from './Navbar.js'
+import Home from './Home'
+import About from './About'
+import Login from './Login'
+import Navbar from './Navbar'
 import { BrowserRouter as Router, Route } from 'react-router-dom';
  
 ReactDOM.render((
